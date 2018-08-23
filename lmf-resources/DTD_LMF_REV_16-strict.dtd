@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<!-- LMF DTD --> 
+<!--
+***********************************************************************
+*
+*  Strict dtd for validation of STO-LMF
+*
+*
+***********************************************************************
+-->    
+
+<!--*********** Core package ***********-->
+
+<!ELEMENT LexicalResource (feat*, GlobalInformation, Lexicon+)>    
+<!ATTLIST LexicalResource
+    dtdVersion CDATA     #FIXED "16"
+    xmlns:dcr  CDATA     #FIXED "http://www.isocat.org/ns/dcr">
+
+<!ELEMENT GlobalInformation (feat*)>
+<!ELEMENT Lexicon (feat*, LexicalEntry+)>
+<!ELEMENT LexicalEntry (feat*, Lemma, WordForm*, RelatedForm*)>
+<!ATTLIST LexicalEntry
+    id                                  ID #IMPLIED
+  >
+
+
+
+<!--*********** Package for Morphology ***********-->
+<!ELEMENT Lemma (feat*, FormRepresentation*)>
+<!ELEMENT WordForm (feat*, FormRepresentation*)>
+<!ELEMENT FormRepresentation (feat*)>
+<!ELEMENT RelatedForm (feat*, FormRepresentation*)>
+<!ATTLIST RelatedForm
+    targets       IDREFS #IMPLIED>
+
+    
+    
+<!--*********** for data category adornment: feat stands for feature ***********-->
+<!ELEMENT feat EMPTY>
+            <!-- att=constant to be taken from the DataCategoryRegistry -->
+            <!-- val=free string or constant to be taken from the DCR-->
+<!ATTLIST feat
+    att (id|morphologicalUnitId|partOfSpeech|originalSource|independentWord|officiallyApproved|frequency|
+    languageCoding|languageIdentifier|
+    adjectivalFunction|degree|grammaticalGender|grammaticalNumber|definiteness|transcategorization|case|joiningElement|joiningElementResult|decomposition|
+    ownerNumber|person|reflexivity|register|verbFormMood|tense|voice|writtenForm|inflectionalParadigm|spellingVariant)             #REQUIRED
+    val      CDATA #REQUIRED
+    dcr:valueDatcat CDATA #IMPLIED
+    dcr:datcat CDATA #IMPLIED
+    >
+
+

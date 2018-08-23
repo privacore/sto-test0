@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LexicalResource SYSTEM "file:/N:/cst/metanord/STO/STO-LMF-eks/format-dtd-mv/DTD_LMF_REV_16-strict.dtd">
+<LexicalResource dtdVersion="16" xmlns:dcr="http://www.isocat.org/ns/dcr">
+   <!-- STO export to LMF for morphology, January 2013  -->
+    <GlobalInformation>
+       <feat att="languageCoding" dcr:datcat="http://www.isocat.org/datcat/DC-2008" val="ISO 639-1"/>
+       
+    <!--POS tagset and morphological features with references to isocat -->
+       <feat att="adjectivalFunction" dcr:datcat="../DC-5289" val="attributiveFunction" dcr:valueDatcat="../DC-5287"/>
+       <feat att="adjectivalFunction" dcr:datcat="../DC-5289" val="predicativeFunction" dcr:valueDatcat="../DC-5288"/>
+       <feat att="adjectivalFunction" dcr:datcat="../DC-5289" val="unspecified" dcr:valueDatcat="../DC-1908"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="adjective" dcr:valueDatcat="../DC-1230"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="commonNoun" dcr:valueDatcat="../DC-1256"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="conjunction" dcr:valueDatcat="../DC-1260"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="demonstrativePronoun" dcr:valueDatcat="../DC-1270"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="deponentVerb" dcr:valueDatcat="../DC-5278"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="existentialPronoun" dcr:valueDatcat="../DC-3012"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="generalAdverb" dcr:valueDatcat="../DC-1435"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="indefinitePronoun" dcr:valueDatcat="../DC-1309"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="infinitiveParticle" dcr:valueDatcat="../DC-1896"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="interjection" dcr:valueDatcat="../DC-1318"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="interrogativeRelativePronoun" dcr:valueDatcat="../DC-3016"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="mainVerb" dcr:valueDatcat="../DC-1400"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="numeral" dcr:valueDatcat="../DC-1334"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="ordinalAdjective" dcr:valueDatcat="../DC-1338"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="personalPronoun" dcr:valueDatcat="../DC-1463"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="possessivePronoun" dcr:valueDatcat="../DC-1359"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="preposition" dcr:valueDatcat="../DC-1366"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="properNoun" dcr:valueDatcat="../DC-1371"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="reciprocalPronoun" dcr:valueDatcat="../DC-1924"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="unclassifiedParticle" dcr:valueDatcat="../DC-1897"/>
+       <feat att="partOfSpeech" dcr:datcat="../DC-1345" val="unspecified" dcr:valueDatcat="../DC-1908"/>
+       <feat att="case" dcr:datcat="../DC-1840" val="genitiveCase" dcr:valueDatcat="../DC-1293"/>
+       <feat att="case" dcr:datcat="../DC-1840" val="nominativeCase" dcr:valueDatcat="../DC-1331"/>
+       <feat att="case" dcr:datcat="../DC-1840" val="unspecified" dcr:valueDatcat="../DC-1908"/>
+       <feat att="decomposition" dcr:datcat="../DC-5281" val="CDATA"/>
+       <feat att="definiteness" dcr:datcat="../DC-1926" val="definite" dcr:valueDatcat="../DC-2004"/>
+       <feat att="definiteness" dcr:datcat="../DC-1926" val="indefinite" dcr:valueDatcat="../DC-2005"/>
+       <feat att="definiteness" dcr:datcat="../DC-1926" val="unspecified" dcr:valueDatcat="../DC-1908"/>
+       <feat att="degree" dcr:datcat="../DC-1419" val="comparative" dcr:valueDatcat="../DC-1421"/>
+       <feat att="degree" dcr:datcat="../DC-1419" val="positive" dcr:valueDatcat="../DC-1420"/>
+       <feat att="degree" dcr:datcat="../DC-1419" val="superlative" dcr:valueDatcat="../DC-1422"/>
+       <feat att="frequency" dcr:datcat="../DC-5615" val="CDATA"/>
+       <feat att="grammaticalGender" dcr:datcat="../DC-1297" val="commonGender" dcr:valueDatcat="../DC-1558"/>
+       <feat att="grammaticalGender" dcr:datcat="../DC-1297" val="neuter" dcr:valueDatcat="../DC-1884"/>
+       <feat att="grammaticalGender" dcr:datcat="../DC-1297" val="unspecified" dcr:valueDatcat="../DC-1908"/>
+       <feat att="grammaticalNumber" dcr:datcat="../DC-1298" val="plural" dcr:valueDatcat="../DC-1354"/>
+       <feat att="grammaticalNumber" dcr:datcat="../DC-1298" val="singular" dcr:valueDatcat="../DC-1387"/>
+       <feat att="grammaticalNumber" dcr:datcat="../DC-1298" val="unspecified" dcr:valueDatcat="../DC-1908"/>
+       <feat att="id" dcr:datcat="../DC-1845" val="CDATA"/>
+       <feat att="independentWord" dcr:datcat="../DC-5285" val="no" dcr:valueDatcat="../DC-1905"/>
+       <feat att="independentWord" dcr:datcat="../DC-5285" val="yes" dcr:valueDatcat="../DC-1904"/>
+       <feat att="inflectionalParadigm" dcr:datcat="../DC-5283" val="CDATA"/>
+       <feat att="joiningElement" dcr:datcat="../DC-5279" val="CDATA"/>
+       <feat att="joiningElementResult" dcr:datcat="../DC-5280" val="CDATA"/>
+       <feat att="morphologicalUnitId" dcr:datcat="../DC-5282" val="CDATA"/>
+       <feat att="officiallyApproved" dcr:datcat="../DC-5284" val="no" dcr:valueDatcat="../DC-1905"/>
+       <feat att="officiallyApproved" dcr:datcat="../DC-5284" val="yes" dcr:valueDatcat="../DC-1904"/>
+       <feat att="originalSource" dcr:datcat="../DC-2534" val="CDATA"/>
+       <feat att="ownerNumber" dcr:datcat="../DC-1417" val="plural" dcr:valueDatcat="../DC-1354"/>
+       <feat att="ownerNumber" dcr:datcat="../DC-1417" val="singular" dcr:valueDatcat="../DC-1387"/>
+       <feat att="person" dcr:datcat="../DC-1328" val="firstPerson" dcr:valueDatcat="../DC-1288"/>
+       <feat att="person" dcr:datcat="../DC-1328" val="secondPerson" dcr:valueDatcat="../DC-1384"/>
+       <feat att="person" dcr:datcat="../DC-1328" val="thirdPerson" dcr:valueDatcat="../DC-1402"/>       
+       <feat att="reflexivity" dcr:datcat="../DC-5286" val="no" dcr:valueDatcat="../DC-1905"/>
+       <feat att="reflexivity" dcr:datcat="../DC-5286" val="yes" dcr:valueDatcat="../DC-1904"/>
+       <feat att="register" dcr:datcat="../DC-1988" val="formalRegister" dcr:valueDatcat="../DC-1992"/>
+       <feat att="spellingVariant" dcr:datcat="../DC-5612" val="CDATA"/>
+       <feat att="tense" dcr:datcat="../DC-1286" val="past" dcr:valueDatcat="../DC-1347"/>
+       <feat att="tense" dcr:datcat="../DC-1286" val="present" dcr:valueDatcat="../DC-1367"/>
+       <feat att="transcategorization" dcr:datcat="../DC-5272" val="transadjectival" dcr:valueDatcat="../DC-5276"/>
+       <feat att="transcategorization" dcr:datcat="../DC-5272" val="transadverbial" dcr:valueDatcat="../DC-5275"/>
+       <feat att="transcategorization" dcr:datcat="../DC-5272" val="transnominal" dcr:valueDatcat="../DC-5277"/>
+       <feat att="verbFormMood" dcr:datcat="../DC-1427" val="gerundive" dcr:valueDatcat="../DC-2243"/>
+       <feat att="verbFormMood" dcr:datcat="../DC-1427" val="imperative" dcr:valueDatcat="../DC-1844"/>
+       <feat att="verbFormMood" dcr:datcat="../DC-1427" val="indicative" dcr:valueDatcat="../DC-1885"/>
+       <feat att="verbFormMood" dcr:datcat="../DC-1427" val="infinitive" dcr:valueDatcat="../DC-1312"/>
+       <feat att="verbFormMood" dcr:datcat="../DC-1427" val="participle" dcr:valueDatcat="../DC-1341"/>
+       <feat att="voice" dcr:datcat="../DC-1413" val="activeVoice" dcr:valueDatcat="../DC-1227"/>
+       <feat att="voice" dcr:datcat="../DC-1413" val="passiveVoice" dcr:valueDatcat="../DC-1346"/>
+       <feat att="writtenForm" dcr:datcat="../DC-1836" val="CDATA"/>
+    </GlobalInformation>
+
+
+    <Lexicon>
+       <feat att="languageIdentifier"  dcr:datcat="../DC-279" val="da"/>    
+
+<LexicalEntry><feat att="partOfSpeech" val="mainVerb"/> 
+<feat att="id" val="GMU_ARKIVERE_1"/> 
+<feat att="morphologicalUnitId" val="ARKIVERE"/> 
+<feat att="originalSource" val="PAROLE"/> 
+<feat att="independentWord" val="yes"/> 
+<Lemma><FormRepresentation> <feat att="writtenForm" val="arkivere"/> <feat att="officiallyApproved" val="yes"/> </FormRepresentation> </Lemma> 
+<WordForm><feat att="verbFormMood" val="imperative"/><FormRepresentation> <feat att="writtenForm" val="arkiver"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" 
+val="yes"/> <feat att="frequency" val="4.8036"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="indicative"/><feat att="tense" val="present"/><feat att="voice" val="passiveVoice"/><FormRepresentation> <feat att="writtenForm" val="arkiveres"/><feat att="inflectionalParadigm" 
+val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".2857"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="indicative"/><feat att="tense" val="present"/><feat att="voice" val="activeVoice"/><FormRepresentation> <feat att="writtenForm" val="arkiverer"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".1786"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="indicative"/><feat att="tense" val="past"/><feat att="voice" val="activeVoice"/><FormRepresentation> <feat att="writtenForm" val="arkiverede"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".1607"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="indicative"/><feat att="tense" val="past"/><feat att="voice" val="passiveVoice"/><FormRepresentation> <feat att="writtenForm" val="arkiveredes"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".0179"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="infinitive"/><feat att="voice" val="passiveVoice"/><FormRepresentation> <feat att="writtenForm" val="arkiveres"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".2857"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="infinitive"/><feat att="voice" val="activeVoice"/><FormRepresentation> <feat att="writtenForm" val="arkivere"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".3214"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="present"/><FormRepresentation> <feat att="writtenForm" val="arkiverende"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val="0.0"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="past"/><FormRepresentation> <feat att="writtenForm" val="arkiveret"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".75"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="gerundive"/><feat att="grammaticalNumber" val="singular"/><feat att="grammaticalGender" val="commonGender"/><feat att="definiteness" val="unspecified"/><feat att="transcategorization" val="transnominal"/><FormRepresentation> <feat att="writtenForm" 
+val="arkiveren"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val="0.0"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="present"/><feat att="grammaticalNumber" val="unspecified"/><feat att="grammaticalGender" val="unspecified"/><feat att="definiteness" val="unspecified"/><feat att="transcategorization" val="transadjectival"/><FormRepresentation> <feat att="writtenForm" 
+val="arkiverende"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val="0.0"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="past"/><feat att="grammaticalNumber" val="singular"/><feat att="grammaticalGender" val="neuter"/><feat att="definiteness" val="indefinite"/><feat att="transcategorization" val="transadjectival"/><FormRepresentation> <feat att="writtenForm" 
+val="arkiveret"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".75"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="past"/><feat att="grammaticalNumber" val="singular"/><feat att="grammaticalGender" val="commonGender"/><feat att="definiteness" val="indefinite"/><feat att="transcategorization" val="transadjectival"/><FormRepresentation> <feat att="writtenForm" 
+val="arkiveret"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".75"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="past"/><feat att="grammaticalNumber" val="singular"/><feat att="grammaticalGender" val="unspecified"/><feat att="definiteness" val="definite"/><feat att="transcategorization" val="transadjectival"/><FormRepresentation> <feat att="writtenForm" 
+val="arkiverede"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".1607"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="past"/><feat att="grammaticalNumber" val="plural"/><feat att="grammaticalGender" val="unspecified"/><feat att="definiteness" val="unspecified"/><feat att="transcategorization" val="transadjectival"/><FormRepresentation> <feat att="writtenForm" 
+val="arkiverede"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".1607"/></FormRepresentation> </WordForm> 
+</LexicalEntry> 
+<LexicalEntry><feat att="partOfSpeech" val="mainVerb"/> 
+<feat att="id" val="GMU_OVERMANDE_1"/> 
+<feat att="morphologicalUnitId" val="OVERMANDE"/> 
+<feat att="originalSource" val="PAROLE"/> 
+<feat att="independentWord" val="yes"/> 
+<Lemma><FormRepresentation> <feat att="writtenForm" val="overmande"/> <feat att="officiallyApproved" val="yes"/> </FormRepresentation> </Lemma> 
+<WordForm><feat att="verbFormMood" val="imperative"/><FormRepresentation> <feat att="writtenForm" val="overmand"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" 
+val="yes"/> <feat att="frequency" val=".9286"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="indicative"/><feat att="tense" val="present"/><feat att="voice" val="passiveVoice"/><FormRepresentation> <feat att="writtenForm" val="overmandes"/><feat att="inflectionalParadigm" 
+val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".1607"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="indicative"/><feat att="tense" val="present"/><feat att="voice" val="activeVoice"/><FormRepresentation> <feat att="writtenForm" val="overmander"/><feat att="inflectionalParadigm" 
+val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".3214"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="indicative"/><feat att="tense" val="past"/><feat att="voice" val="activeVoice"/><FormRepresentation> <feat att="writtenForm" val="overmandede"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".6607"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="indicative"/><feat att="tense" val="past"/><feat att="voice" val="passiveVoice"/><FormRepresentation> <feat att="writtenForm" val="overmandedes"/><feat att="inflectionalParadigm" 
+val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".0179"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="infinitive"/><feat att="voice" val="passiveVoice"/><FormRepresentation> <feat att="writtenForm" val="overmandes"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".1607"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="infinitive"/><feat att="voice" val="activeVoice"/><FormRepresentation> <feat att="writtenForm" val="overmande"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".7679"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="present"/><FormRepresentation> <feat att="writtenForm" val="overmandende"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val="0.0"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="past"/><FormRepresentation> <feat att="writtenForm" val="overmandet"/><feat att="inflectionalParadigm" val="MFG0112"/> 
+<feat att="officiallyApproved" val="yes"/> <feat att="frequency" val="1.3214"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="gerundive"/><feat att="grammaticalNumber" val="singular"/><feat att="grammaticalGender" val="commonGender"/><feat att="definiteness" val="unspecified"/><feat att="transcategorization" val="transnominal"/><FormRepresentation> <feat att="writtenForm" 
+val="overmanden"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".0179"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="present"/><feat att="grammaticalNumber" val="unspecified"/><feat att="grammaticalGender" val="unspecified"/><feat att="definiteness" val="unspecified"/><feat att="transcategorization" val="transadjectival"/><FormRepresentation> <feat att="writtenForm" 
+val="overmandende"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val="0.0"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="past"/><feat att="grammaticalNumber" val="singular"/><feat att="grammaticalGender" val="neuter"/><feat att="definiteness" val="indefinite"/><feat att="transcategorization" val="transadjectival"/><FormRepresentation> <feat att="writtenForm" 
+val="overmandet"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val="1.3214"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="past"/><feat att="grammaticalNumber" val="singular"/><feat att="grammaticalGender" val="commonGender"/><feat att="definiteness" val="indefinite"/><feat att="transcategorization" val="transadjectival"/><FormRepresentation> <feat att="writtenForm" 
+val="overmandet"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val="1.3214"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="past"/><feat att="grammaticalNumber" val="singular"/><feat att="grammaticalGender" val="unspecified"/><feat att="definiteness" val="definite"/><feat att="transcategorization" val="transadjectival"/><FormRepresentation> <feat att="writtenForm" 
+val="overmandede"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".6607"/></FormRepresentation> </WordForm> 
+<WordForm><feat att="verbFormMood" val="participle"/><feat att="tense" val="past"/><feat att="grammaticalNumber" val="plural"/><feat att="grammaticalGender" val="unspecified"/><feat att="definiteness" val="unspecified"/><feat att="transcategorization" val="transadjectival"/><FormRepresentation> <feat att="writtenForm" 
+val="overmandede"/><feat att="inflectionalParadigm" val="MFG0112"/> <feat att="officiallyApproved" val="yes"/> <feat att="frequency" val=".6607"/></FormRepresentation> </WordForm> 
+</LexicalEntry> 
+
+</Lexicon> 
+</LexicalResource> 
