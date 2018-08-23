@@ -1,0 +1,81 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_CARIES_2" />
+	<feat att="morphologicalUnitId" val="CARIES" />
+	<feat att="originalSource" val="ONTOQUERY" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="karies" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="nil" />
+			<feat att="joiningElementResult" val="karies" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="karies" />
+			<feat att="inflectionalParadigm" val="MFG0265" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="karieses" />
+			<feat att="inflectionalParadigm" val="MFG0265" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="karies's" />
+			<feat att="inflectionalParadigm" val="MFG0265" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="karies'" />
+			<feat att="inflectionalParadigm" val="MFG0265" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="karieset" />
+			<feat att="inflectionalParadigm" val="MFG0265" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="kariesets" />
+			<feat att="inflectionalParadigm" val="MFG0265" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_CARIES_1" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="caries" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

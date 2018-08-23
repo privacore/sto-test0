@@ -1,0 +1,111 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_LÆGEMIDDELSTYRELSE_1" />
+	<feat att="morphologicalUnitId" val="LÆGEMIDDELSTYRELSE" />
+	<feat att="originalSource" val="SUNDHEDSKORPUS" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="lægemiddel+styrelse" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="lægemiddelstyrelse" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lægemiddelstyrelse" />
+			<feat att="inflectionalParadigm" val="MFG0076" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lægemiddelstyrelses" />
+			<feat att="inflectionalParadigm" val="MFG0076" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lægemiddelstyrelser" />
+			<feat att="inflectionalParadigm" val="MFG0076" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lægemiddelstyrelsers" />
+			<feat att="inflectionalParadigm" val="MFG0076" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lægemiddelstyrelsen" />
+			<feat att="inflectionalParadigm" val="MFG0076" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="2.1607" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lægemiddelstyrelsens" />
+			<feat att="inflectionalParadigm" val="MFG0076" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".2143" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lægemiddelstyrelserne" />
+			<feat att="inflectionalParadigm" val="MFG0076" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lægemiddelstyrelsernes" />
+			<feat att="inflectionalParadigm" val="MFG0076" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

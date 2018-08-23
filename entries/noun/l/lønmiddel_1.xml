@@ -1,0 +1,124 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_LØNMIDDEL_1" />
+	<feat att="morphologicalUnitId" val="LØNMIDDEL" />
+	<feat att="originalSource" val="FORVALT-KORPUS" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="løn+middel" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="lønmiddel" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="nil" />
+			<feat att="joiningElementResult" val="lønmiddel" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lønmiddel" />
+			<feat att="inflectionalParadigm" val="MFG0256,MFG0258" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lønmiddels" />
+			<feat att="inflectionalParadigm" val="MFG0256,MFG0258" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lønmidler" />
+			<feat att="inflectionalParadigm" val="MFG0256,MFG0258" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lønmidlers" />
+			<feat att="inflectionalParadigm" val="MFG0256,MFG0258" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lønmidlet" />
+			<feat att="inflectionalParadigm" val="MFG0258" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="lønmiddelet" />
+			<feat att="inflectionalParadigm" val="MFG0256" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lønmidlets" />
+			<feat att="inflectionalParadigm" val="MFG0258" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="lønmiddelets" />
+			<feat att="inflectionalParadigm" val="MFG0256" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lønmidlerne" />
+			<feat att="inflectionalParadigm" val="MFG0256,MFG0258" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lønmidlernes" />
+			<feat att="inflectionalParadigm" val="MFG0256,MFG0258" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

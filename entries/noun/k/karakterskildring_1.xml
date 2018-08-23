@@ -1,0 +1,111 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_karakterskildring_1" />
+	<feat att="morphologicalUnitId" val="KARAKTERSKILDRING" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="karakter+skildring" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="karakterskildring" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="karakterskildring" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="karakterskildrings" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="karakterskildringer" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="karakterskildringers" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="karakterskildringen" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="karakterskildringens" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="karakterskildringerne" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="karakterskildringernes" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

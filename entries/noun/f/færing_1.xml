@@ -1,0 +1,110 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_FÆRING_1" />
+	<feat att="morphologicalUnitId" val="FÆRING" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="færing" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="færing" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".7857" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="færings" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0536" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="færinger" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.9464" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="færingers" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="færingen" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".5714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="færingens" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="færingerne" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="3.2679" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="færingernes" />
+			<feat att="inflectionalParadigm" val="MFG0016" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".5357" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

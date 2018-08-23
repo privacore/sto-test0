@@ -1,0 +1,112 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_handelskompagni_1" />
+	<feat att="morphologicalUnitId" val="HANDELSKOMPAGNI" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="handel+s+kompagni" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelskompagni" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="nil" />
+			<feat att="joiningElementResult" val="handelskompagni" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelskompagni" />
+			<feat att="inflectionalParadigm" val="MFG0044" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0536" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelskompagnis" />
+			<feat att="inflectionalParadigm" val="MFG0044" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelskompagnier" />
+			<feat att="inflectionalParadigm" val="MFG0044" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1071" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelskompagniers" />
+			<feat att="inflectionalParadigm" val="MFG0044" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelskompagniet" />
+			<feat att="inflectionalParadigm" val="MFG0044" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0536" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelskompagniets" />
+			<feat att="inflectionalParadigm" val="MFG0044" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelskompagnierne" />
+			<feat att="inflectionalParadigm" val="MFG0044" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelskompagniernes" />
+			<feat att="inflectionalParadigm" val="MFG0044" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

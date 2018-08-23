@@ -1,0 +1,124 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_RÅSTOFPRIS_1" />
+	<feat att="morphologicalUnitId" val="RÅSTOFPRIS" />
+	<feat att="originalSource" val="MILJØ-KORPUS" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="råstof+pris" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="råstofpris" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="nil" />
+			<feat att="joiningElementResult" val="råstofpris" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="råstofpris" />
+			<feat att="inflectionalParadigm" val="MFG0225" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="råstofprises" />
+			<feat att="inflectionalParadigm" val="MFG0225" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="råstofpris's" />
+			<feat att="inflectionalParadigm" val="MFG0225" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="råstofpris'" />
+			<feat att="inflectionalParadigm" val="MFG0225" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="råstofpriser" />
+			<feat att="inflectionalParadigm" val="MFG0225" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="råstofprisers" />
+			<feat att="inflectionalParadigm" val="MFG0225" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="råstofprisen" />
+			<feat att="inflectionalParadigm" val="MFG0225" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="råstofprisens" />
+			<feat att="inflectionalParadigm" val="MFG0225" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="råstofpriserne" />
+			<feat att="inflectionalParadigm" val="MFG0225" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="råstofprisernes" />
+			<feat att="inflectionalParadigm" val="MFG0225" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

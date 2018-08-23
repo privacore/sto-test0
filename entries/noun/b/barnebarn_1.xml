@@ -1,0 +1,111 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_BARNEBARN_1" />
+	<feat att="morphologicalUnitId" val="BARNEBARN" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="barn+e+barn" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="barnebarn" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="barnebarn" />
+			<feat att="inflectionalParadigm" val="MFG0047" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="6.2321" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="barnebarns" />
+			<feat att="inflectionalParadigm" val="MFG0047" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1786" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="børnebørn" />
+			<feat att="inflectionalParadigm" val="MFG0047" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="11.25" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="børnebørns" />
+			<feat att="inflectionalParadigm" val="MFG0047" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".5536" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="barnebarnet" />
+			<feat att="inflectionalParadigm" val="MFG0047" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.5357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="barnebarnets" />
+			<feat att="inflectionalParadigm" val="MFG0047" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1071" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="børnebørnene" />
+			<feat att="inflectionalParadigm" val="MFG0047" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.8571" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="børnebørnenes" />
+			<feat att="inflectionalParadigm" val="MFG0047" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".125" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

@@ -1,0 +1,76 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_majschips_1" />
+	<feat att="morphologicalUnitId" val="MAJSCHIPS" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="majs+chips" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="majschips" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="nil" />
+			<feat att="joiningElementResult" val="majschips" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="majschips" />
+			<feat att="inflectionalParadigm" val="MFG0408" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1071" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="majschipses" />
+			<feat att="inflectionalParadigm" val="MFG0408" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="majschips's" />
+			<feat att="inflectionalParadigm" val="MFG0408" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="majschips'" />
+			<feat att="inflectionalParadigm" val="MFG0408" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="majschipsene" />
+			<feat att="inflectionalParadigm" val="MFG0408" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="majschipsenes" />
+			<feat att="inflectionalParadigm" val="MFG0408" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

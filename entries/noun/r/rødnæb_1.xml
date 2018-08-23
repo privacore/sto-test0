@@ -1,0 +1,135 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_rødnæb_1" />
+	<feat att="morphologicalUnitId" val="RØDNÆB" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="rød+næb" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæb" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæb" />
+			<feat att="inflectionalParadigm" val="MFG0011,MFG1032" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæbs" />
+			<feat att="inflectionalParadigm" val="MFG0011,MFG1032" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæb" />
+			<feat att="inflectionalParadigm" val="MFG0011,MFG1032" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæbs" />
+			<feat att="inflectionalParadigm" val="MFG0011,MFG1032" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæben" />
+			<feat att="inflectionalParadigm" val="MFG0011" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæbben" />
+			<feat att="inflectionalParadigm" val="MFG1032" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæbens" />
+			<feat att="inflectionalParadigm" val="MFG0011" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæbbens" />
+			<feat att="inflectionalParadigm" val="MFG1032" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæbene" />
+			<feat att="inflectionalParadigm" val="MFG0011" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæbbene" />
+			<feat att="inflectionalParadigm" val="MFG1032" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæbenes" />
+			<feat att="inflectionalParadigm" val="MFG0011" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="rødnæbbenes" />
+			<feat att="inflectionalParadigm" val="MFG1032" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

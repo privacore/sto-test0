@@ -1,0 +1,195 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="mainVerb" />
+	<feat att="id" val="GMU_BÆLGE,2_2" />
+	<feat att="morphologicalUnitId" val="BÆLGE_2" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="bælle" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="verbFormMood" val="imperative" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bæll" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="indicative" />
+		<feat att="tense" val="present" />
+		<feat att="voice" val="passiveVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bælles" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="indicative" />
+		<feat att="tense" val="present" />
+		<feat att="voice" val="activeVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bæller" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".125" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="indicative" />
+		<feat att="tense" val="past" />
+		<feat att="voice" val="activeVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bællede" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="indicative" />
+		<feat att="tense" val="past" />
+		<feat att="voice" val="passiveVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bælledes" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="infinitive" />
+		<feat att="voice" val="passiveVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bælles" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="infinitive" />
+		<feat att="voice" val="activeVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bælle" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".375" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="present" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bællende" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="past" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bællet" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0536" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="gerundive" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="unspecified" />
+		<feat att="transcategorization" val="transnominal" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bællen" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="present" />
+		<feat att="grammaticalNumber" val="unspecified" />
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="definiteness" val="unspecified" />
+		<feat att="transcategorization" val="transadjectival" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bællende" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="past" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="transcategorization" val="transadjectival" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bællet" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0536" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="past" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="transcategorization" val="transadjectival" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bællet" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0536" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="past" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="definiteness" val="definite" />
+		<feat att="transcategorization" val="transadjectival" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bællede" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="past" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="definiteness" val="unspecified" />
+		<feat att="transcategorization" val="transadjectival" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bællede" />
+			<feat att="inflectionalParadigm" val="MFG0112" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0714" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_BÆLGE,2_1" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bælge" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

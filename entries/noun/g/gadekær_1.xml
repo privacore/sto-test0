@@ -1,0 +1,111 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_GADEKÆR_1" />
+	<feat att="morphologicalUnitId" val="GADEKÆR" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="gade+kær" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="gadekær" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="gadekær" />
+			<feat att="inflectionalParadigm" val="MFG0040" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".5357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="gadekærs" />
+			<feat att="inflectionalParadigm" val="MFG0040" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="gadekær" />
+			<feat att="inflectionalParadigm" val="MFG0040" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".5357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="gadekærs" />
+			<feat att="inflectionalParadigm" val="MFG0040" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="gadekæret" />
+			<feat att="inflectionalParadigm" val="MFG0040" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".75" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="gadekærets" />
+			<feat att="inflectionalParadigm" val="MFG0040" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="gadekærene" />
+			<feat att="inflectionalParadigm" val="MFG0040" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="gadekærenes" />
+			<feat att="inflectionalParadigm" val="MFG0040" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

@@ -1,0 +1,63 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_handelsret_1" />
+	<feat att="morphologicalUnitId" val="HANDELSRET" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="handel+s+ret" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelsret" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelsret" />
+			<feat att="inflectionalParadigm" val="MFG0238" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0893" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelsrets" />
+			<feat att="inflectionalParadigm" val="MFG0238" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelsretten" />
+			<feat att="inflectionalParadigm" val="MFG0238" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="3.8393" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelsrettens" />
+			<feat att="inflectionalParadigm" val="MFG0238" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".5" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

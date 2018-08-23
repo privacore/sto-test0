@@ -1,0 +1,75 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_JAZZ_1" />
+	<feat att="morphologicalUnitId" val="JAZZ" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="jazz" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="nil" />
+			<feat att="joiningElementResult" val="jazz" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="jazz" />
+			<feat att="inflectionalParadigm" val="MFG0236" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="20.8036" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="jazzes" />
+			<feat att="inflectionalParadigm" val="MFG0236" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="jazz's" />
+			<feat att="inflectionalParadigm" val="MFG0236" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="jazz'" />
+			<feat att="inflectionalParadigm" val="MFG0236" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1786" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="jazzen" />
+			<feat att="inflectionalParadigm" val="MFG0236" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="2.8036" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="jazzens" />
+			<feat att="inflectionalParadigm" val="MFG0236" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="2.4286" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

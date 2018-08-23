@@ -1,0 +1,29 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="ordinalAdjective" />
+	<feat att="id" val="GMU_TREDJE_2" />
+	<feat att="morphologicalUnitId" val="TREDJE" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="tredie" />
+			<feat att="officiallyApproved" val="no" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="plural" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tredie" />
+			<feat att="inflectionalParadigm" val="MFG0728" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_TREDJE_1" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tredje" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

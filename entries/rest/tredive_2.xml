@@ -1,0 +1,29 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="numeral" />
+	<feat att="id" val="GMU_TREDIVE_2" />
+	<feat att="morphologicalUnitId" val="TREDIVE" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="tredve" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="plural" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tredve" />
+			<feat att="inflectionalParadigm" val="MFG0728" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".3571" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_TREDIVE_1" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tredive" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

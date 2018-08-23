@@ -1,0 +1,38 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="properNoun" />
+	<feat att="id" val="GMU_VORHERRE_1" />
+	<feat att="morphologicalUnitId" val="VORHERRE" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Vorherre" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Vorherre" />
+			<feat att="inflectionalParadigm" val="MFG1004" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="5.7143" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Vorherres" />
+			<feat att="inflectionalParadigm" val="MFG1004" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.1786" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

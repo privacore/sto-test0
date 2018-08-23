@@ -1,0 +1,122 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_LÆNGSEL_1" />
+	<feat att="morphologicalUnitId" val="LÆNGSEL" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="længsel" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="længsel" />
+			<feat att="inflectionalParadigm" val="MFG0026,MFG0104" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="11.2679" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="længsels" />
+			<feat att="inflectionalParadigm" val="MFG0026,MFG0104" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".2143" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="længsler" />
+			<feat att="inflectionalParadigm" val="MFG0026,MFG0104" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="2.0893" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="længslers" />
+			<feat att="inflectionalParadigm" val="MFG0026,MFG0104" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1607" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="længslen" />
+			<feat att="inflectionalParadigm" val="MFG0104" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="2.9643" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="længselen" />
+			<feat att="inflectionalParadigm" val="MFG0026" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".4107" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="længslens" />
+			<feat att="inflectionalParadigm" val="MFG0104" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1964" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="længselens" />
+			<feat att="inflectionalParadigm" val="MFG0026" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="længslerne" />
+			<feat att="inflectionalParadigm" val="MFG0026,MFG0104" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1786" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="længslernes" />
+			<feat att="inflectionalParadigm" val="MFG0026,MFG0104" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

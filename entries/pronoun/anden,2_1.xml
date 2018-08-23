@@ -1,0 +1,77 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="indefinitePronoun" />
+	<feat att="id" val="GMU_ANDEN,2_1" />
+	<feat att="morphologicalUnitId" val="ANDEN_2" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="anden" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="anden" />
+			<feat att="inflectionalParadigm" val="MFG0771" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="808.0536" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="andet" />
+			<feat att="inflectionalParadigm" val="MFG0771" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="752.7143" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="andre" />
+			<feat att="inflectionalParadigm" val="MFG0771" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1356.125" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="andets" />
+			<feat att="inflectionalParadigm" val="MFG0771" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="andens" />
+			<feat att="inflectionalParadigm" val="MFG0771" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="7.6964" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="andres" />
+			<feat att="inflectionalParadigm" val="MFG0771" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="36.4464" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

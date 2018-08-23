@@ -1,0 +1,97 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="indefinitePronoun" />
+	<feat att="id" val="GMU_NOGEN_1" />
+	<feat att="morphologicalUnitId" val="NOGEN" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="nogen" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="nogen" />
+			<feat att="inflectionalParadigm" val="MFG0760" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="567.5714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="noget" />
+			<feat att="inflectionalParadigm" val="MFG0760" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1640.5" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="nogen" />
+			<feat att="inflectionalParadigm" val="MFG0760" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="567.5714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="nogle" />
+			<feat att="inflectionalParadigm" val="MFG0760" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="957.9643" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="nogens" />
+			<feat att="inflectionalParadigm" val="MFG0760" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="2.0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="nogets" />
+			<feat att="inflectionalParadigm" val="MFG0760" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1786" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="nogles" />
+			<feat att="inflectionalParadigm" val="MFG0760" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.1071" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="nogens" />
+			<feat att="inflectionalParadigm" val="MFG0760" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="2.0179" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

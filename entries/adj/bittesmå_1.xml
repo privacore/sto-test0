@@ -1,0 +1,23 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="adjective" />
+	<feat att="id" val="GMU_BITTESMÅ_1" />
+	<feat att="morphologicalUnitId" val="BITTESMÅ" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="bittesmå" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="plural" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="bittesmå" />
+			<feat att="inflectionalParadigm" val="MFG0381" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="2.8571" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

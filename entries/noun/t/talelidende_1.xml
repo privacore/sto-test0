@@ -1,0 +1,23 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_talelidende_1" />
+	<feat att="morphologicalUnitId" val="TALELIDENDE" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="tale+lidende" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="talelidende" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="talelidende" />
+			<feat att="inflectionalParadigm" val="MFG1033" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".125" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

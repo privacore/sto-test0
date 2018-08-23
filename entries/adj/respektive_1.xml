@@ -1,0 +1,34 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="adjective" />
+	<feat att="id" val="GMU_RESPEKTIVE_1" />
+	<feat att="morphologicalUnitId" val="RESPEKTIVE" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="respektive" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="plural" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="respektive" />
+			<feat att="inflectionalParadigm" val="MFG1195" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="7.75" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="transcategorization" val="transadverbial" />
+		<feat att="adjectivalFunction" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="respektive" />
+			<feat att="inflectionalParadigm" val="MFG1195" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="7.75" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

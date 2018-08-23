@@ -1,0 +1,96 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="adjective" />
+	<feat att="id" val="GMU_GRAMMATISK_1" />
+	<feat att="morphologicalUnitId" val="GRAMMATISK" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="grammatisk" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="grammatisk" />
+			<feat att="inflectionalParadigm" val="MFG1155" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.5714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="grammatisk" />
+			<feat att="inflectionalParadigm" val="MFG1155" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.5714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="definite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="grammatiske" />
+			<feat att="inflectionalParadigm" val="MFG1155" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.9643" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="adjectivalFunction" val="predicativeFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="grammatisk" />
+			<feat att="inflectionalParadigm" val="MFG1155" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.5714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="adjectivalFunction" val="predicativeFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="grammatisk" />
+			<feat att="inflectionalParadigm" val="MFG1155" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.5714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="plural" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="grammatiske" />
+			<feat att="inflectionalParadigm" val="MFG1155" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.9643" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="transcategorization" val="transadverbial" />
+		<feat att="adjectivalFunction" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="grammatisk" />
+			<feat att="inflectionalParadigm" val="MFG1155" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.5714" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

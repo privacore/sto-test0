@@ -1,0 +1,64 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_HANDELSSAMARBEJDE_1" />
+	<feat att="morphologicalUnitId" val="HANDELSSAMARBEJDE" />
+	<feat att="originalSource" val="H_OG_E-KORPUS" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="handel+s+samarbejde" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelssamarbejde" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="[e]s" />
+			<feat att="joiningElementResult" val="handelssamarbejds" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelssamarbejde" />
+			<feat att="inflectionalParadigm" val="MFG0241" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1607" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelssamarbejdes" />
+			<feat att="inflectionalParadigm" val="MFG0241" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelssamarbejdet" />
+			<feat att="inflectionalParadigm" val="MFG0241" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="handelssamarbejdets" />
+			<feat att="inflectionalParadigm" val="MFG0241" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

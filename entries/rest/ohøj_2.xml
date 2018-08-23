@@ -1,0 +1,28 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="interjection" />
+	<feat att="id" val="GMU_OHØJ_2" />
+	<feat att="morphologicalUnitId" val="OHØJ" />
+	<feat att="officiallyApproved" val="yes" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Ohøj" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Ohøj" />
+			<feat att="inflectionalParadigm" val="MFG0000" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1429" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_OHØJ_2" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Ohøj" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

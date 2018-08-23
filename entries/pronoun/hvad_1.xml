@@ -1,0 +1,23 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="interrogativeRelativePronoun" />
+	<feat att="id" val="GMU_HVAD_1" />
+	<feat att="morphologicalUnitId" val="HVAD" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="hvad" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="hvad" />
+			<feat att="inflectionalParadigm" val="MFG0739" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1518.7857" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

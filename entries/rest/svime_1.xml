@@ -1,0 +1,22 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="unspecified" />
+	<feat att="id" val="GMU_SVIME_1" />
+	<feat att="morphologicalUnitId" val="SVIME" />
+	<feat att="officiallyApproved" val="yes" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="svime" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="svime" />
+			<feat att="inflectionalParadigm" val="MFG0000" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".9286" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

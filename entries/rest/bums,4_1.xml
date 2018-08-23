@@ -1,0 +1,22 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="interjection" />
+	<feat att="id" val="GMU_BUMS,4_1" />
+	<feat att="morphologicalUnitId" val="BUMS_4" />
+	<feat att="officiallyApproved" val="yes" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="bums" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="bums" />
+			<feat att="inflectionalParadigm" val="MFG0000" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.2143" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

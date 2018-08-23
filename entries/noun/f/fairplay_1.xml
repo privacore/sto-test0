@@ -1,0 +1,23 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_fairplay_1" />
+	<feat att="morphologicalUnitId" val="FAIRPLAY" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="fairplay" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="nil" />
+			<feat att="joiningElementResult" val="fairplay" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="fairplay" />
+			<feat att="inflectionalParadigm" val="MFG1027" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1786" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

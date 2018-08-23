@@ -1,0 +1,111 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_LANDMAND_1" />
+	<feat att="morphologicalUnitId" val="LANDMAND" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="land+mand" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="landmand" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="landmand" />
+			<feat att="inflectionalParadigm" val="MFG0020" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="8.9107" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="landmands" />
+			<feat att="inflectionalParadigm" val="MFG0020" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1786" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="landmænd" />
+			<feat att="inflectionalParadigm" val="MFG0020" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="20.5" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="landmænds" />
+			<feat att="inflectionalParadigm" val="MFG0020" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".5357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="landmanden" />
+			<feat att="inflectionalParadigm" val="MFG0020" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="5.7857" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="landmandens" />
+			<feat att="inflectionalParadigm" val="MFG0020" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".875" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="landmændene" />
+			<feat att="inflectionalParadigm" val="MFG0020" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="10.875" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="landmændenes" />
+			<feat att="inflectionalParadigm" val="MFG0020" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.6607" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

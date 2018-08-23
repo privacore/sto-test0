@@ -1,0 +1,45 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="properNoun" />
+	<feat att="id" val="GMU_Pjerrot_1" />
+	<feat att="morphologicalUnitId" val="PJERROT" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Pierrot" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="joiningElement" val="nil" />
+			<feat att="joiningElementResult" val="Pierrot" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Pierrot" />
+			<feat att="inflectionalParadigm" val="MFG1004" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".3214" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Pierrots" />
+			<feat att="inflectionalParadigm" val="MFG1004" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_Pjerrot_2" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Pjerrot" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

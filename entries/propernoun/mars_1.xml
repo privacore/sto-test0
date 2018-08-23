@@ -1,0 +1,50 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="properNoun" />
+	<feat att="id" val="GMU_MARS_1" />
+	<feat att="morphologicalUnitId" val="MARS" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Mars" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="unspecified" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Mars" />
+			<feat att="inflectionalParadigm" val="MFG1023" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="6.6607" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="unspecified" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Marses" />
+			<feat att="inflectionalParadigm" val="MFG1023" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Mars's" />
+			<feat att="inflectionalParadigm" val="MFG1023" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Mars'" />
+			<feat att="inflectionalParadigm" val="MFG1023" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".4107" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

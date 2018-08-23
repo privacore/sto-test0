@@ -1,0 +1,192 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_FØRSTEHJÆLPSKURSUS_1" />
+	<feat att="morphologicalUnitId" val="FØRSTEHJÆLPSKURSUS" />
+	<feat att="originalSource" val="SUNDHEDSKORPUS" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="førstehjælp+s+kursus" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursus" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="nil" />
+			<feat att="joiningElementResult" val="førstehjælpskursus" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursus" />
+			<feat att="inflectionalParadigm" val="MFG0253,MFG0324" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursuses" />
+			<feat att="inflectionalParadigm" val="MFG0237,MFG0253,MFG0324" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursus's" />
+			<feat att="inflectionalParadigm" val="MFG0237,MFG0253,MFG0324" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursus'" />
+			<feat att="inflectionalParadigm" val="MFG0253,MFG0324" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursus" />
+			<feat att="inflectionalParadigm" val="MFG0253" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskurser" />
+			<feat att="inflectionalParadigm" val="MFG0324" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursuses" />
+			<feat att="inflectionalParadigm" val="MFG0237,MFG0253" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursus's" />
+			<feat att="inflectionalParadigm" val="MFG0237,MFG0253" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursus'" />
+			<feat att="inflectionalParadigm" val="MFG0253" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursers" />
+			<feat att="inflectionalParadigm" val="MFG0324" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursusset" />
+			<feat att="inflectionalParadigm" val="MFG0253" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursuset" />
+			<feat att="inflectionalParadigm" val="MFG0237" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskurset" />
+			<feat att="inflectionalParadigm" val="MFG0324" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursussets" />
+			<feat att="inflectionalParadigm" val="MFG0253" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursusets" />
+			<feat att="inflectionalParadigm" val="MFG0237" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursets" />
+			<feat att="inflectionalParadigm" val="MFG0324" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursussene" />
+			<feat att="inflectionalParadigm" val="MFG0253" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursusene" />
+			<feat att="inflectionalParadigm" val="MFG0237" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskurserne" />
+			<feat att="inflectionalParadigm" val="MFG0324" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursussenes" />
+			<feat att="inflectionalParadigm" val="MFG0253" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursusenes" />
+			<feat att="inflectionalParadigm" val="MFG0237" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="førstehjælpskursernes" />
+			<feat att="inflectionalParadigm" val="MFG0324" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

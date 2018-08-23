@@ -1,0 +1,22 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="generalAdverb" />
+	<feat att="id" val="GMU_BAGVED_1" />
+	<feat att="morphologicalUnitId" val="BAGVED" />
+	<feat att="officiallyApproved" val="yes" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="bagved" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="bagved" />
+			<feat att="inflectionalParadigm" val="MFG0000" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="15.1786" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

@@ -1,0 +1,96 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="adjective" />
+	<feat att="id" val="GMU_MANDHAFTIG_1" />
+	<feat att="morphologicalUnitId" val="MANDHAFTIG" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="mandhaftig" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="mandhaftig" />
+			<feat att="inflectionalParadigm" val="MFG0184" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="mandhaftigt" />
+			<feat att="inflectionalParadigm" val="MFG0184" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="definite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="mandhaftige" />
+			<feat att="inflectionalParadigm" val="MFG0184" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1071" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="adjectivalFunction" val="predicativeFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="mandhaftig" />
+			<feat att="inflectionalParadigm" val="MFG0184" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="adjectivalFunction" val="predicativeFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="mandhaftigt" />
+			<feat att="inflectionalParadigm" val="MFG0184" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0357" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="plural" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="mandhaftige" />
+			<feat att="inflectionalParadigm" val="MFG0184" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1071" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="transcategorization" val="transadverbial" />
+		<feat att="adjectivalFunction" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="mandhaftigt" />
+			<feat att="inflectionalParadigm" val="MFG0184" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0357" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

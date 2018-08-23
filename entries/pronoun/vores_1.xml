@@ -1,0 +1,26 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="possessivePronoun" />
+	<feat att="id" val="GMU_VORES_1" />
+	<feat att="morphologicalUnitId" val="VORES" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="vores" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="grammaticalNumber" val="unspecified" />
+		<feat att="case" val="unspecified" />
+		<feat att="ownerNumber" val="plural" />
+		<feat att="person" val="firstPerson" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="vores" />
+			<feat att="inflectionalParadigm" val="MFG0762" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="557.6607" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

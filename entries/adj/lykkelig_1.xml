@@ -1,0 +1,147 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="adjective" />
+	<feat att="id" val="GMU_LYKKELIG_1" />
+	<feat att="morphologicalUnitId" val="LYKKELIG" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkelig" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="degree" val="comparative" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkeligere" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.4643" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="comparative" />
+		<feat att="transcategorization" val="transadverbial" />
+		<feat att="adjectivalFunction" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkeligere" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.4643" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkeligt" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="7.8929" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkelig" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="17.6786" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="definite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkelige" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="11.0714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="adjectivalFunction" val="predicativeFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkelig" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="17.6786" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="adjectivalFunction" val="predicativeFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkeligt" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="7.8929" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="plural" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkelige" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="11.0714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="transcategorization" val="transadverbial" />
+		<feat att="adjectivalFunction" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkeligt" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="7.8929" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="superlative" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkeligste" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.1071" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="superlative" />
+		<feat att="adjectivalFunction" val="predicativeFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkeligst" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0714" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="superlative" />
+		<feat att="transcategorization" val="transadverbial" />
+		<feat att="adjectivalFunction" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="lykkeligst" />
+			<feat att="inflectionalParadigm" val="MFG1141" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0714" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

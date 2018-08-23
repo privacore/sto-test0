@@ -1,0 +1,22 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="generalAdverb" />
+	<feat att="id" val="GMU_SKAM,2_1" />
+	<feat att="morphologicalUnitId" val="SKAM_2" />
+	<feat att="officiallyApproved" val="yes" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="skam" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="skam" />
+			<feat att="inflectionalParadigm" val="MFG0000" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="25.5" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

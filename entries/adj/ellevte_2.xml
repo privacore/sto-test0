@@ -1,0 +1,29 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="ordinalAdjective" />
+	<feat att="id" val="GMU_ELLEVTE_2" />
+	<feat att="morphologicalUnitId" val="ELLEVTE" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="elvte" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="plural" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="elvte" />
+			<feat att="inflectionalParadigm" val="MFG0728" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".2143" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_ELLEVTE_1" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="ellevte" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

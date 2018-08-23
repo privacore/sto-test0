@@ -1,0 +1,24 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_sæsonslut_1" />
+	<feat att="morphologicalUnitId" val="SÆSONSLUT" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<feat att="decomposition" val="sæson+slut" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="sæsonslut" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="nil" />
+			<feat att="joiningElementResult" val="sæsonslut" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="sæsonslut" />
+			<feat att="inflectionalParadigm" val="MFG1027" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

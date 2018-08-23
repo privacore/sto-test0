@@ -1,0 +1,22 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="unspecified" />
+	<feat att="id" val="GMU_UTIDE_1" />
+	<feat att="morphologicalUnitId" val="UTIDE" />
+	<feat att="officiallyApproved" val="yes" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="utide" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="utide" />
+			<feat att="inflectionalParadigm" val="MFG0000" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="8.0714" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

@@ -1,0 +1,28 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="generalAdverb" />
+	<feat att="id" val="GMU_MORDERLIG_1" />
+	<feat att="morphologicalUnitId" val="MORDERLIG" />
+	<feat att="officiallyApproved" val="yes" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="morderlig" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="morderlig" />
+			<feat att="inflectionalParadigm" val="MFG0000" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".3214" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_MORDERLIG_2" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="morderligt" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

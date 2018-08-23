@@ -1,0 +1,28 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="interjection" />
+	<feat att="id" val="GMU_FYH_1" />
+	<feat att="morphologicalUnitId" val="FYH" />
+	<feat att="officiallyApproved" val="yes" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="fy" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="fy" />
+			<feat att="inflectionalParadigm" val="MFG0000" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="2.3214" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_FYH_2" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="fyh" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

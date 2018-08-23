@@ -1,0 +1,23 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="ordinalAdjective" />
+	<feat att="id" val="GMU_FEMTE_1" />
+	<feat att="morphologicalUnitId" val="FEMTE" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="femte" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="plural" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="femte" />
+			<feat att="inflectionalParadigm" val="MFG0728" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="29.5714" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

@@ -1,0 +1,25 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="personalPronoun" />
+	<feat att="id" val="GMU_DET_1" />
+	<feat att="morphologicalUnitId" val="DET" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="det" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<feat att="person" val="thirdPerson" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="det" />
+			<feat att="inflectionalParadigm" val="MFG0767" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="20152.3214" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

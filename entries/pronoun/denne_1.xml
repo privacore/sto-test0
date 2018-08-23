@@ -1,0 +1,77 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="demonstrativePronoun" />
+	<feat att="id" val="GMU_DENNE_1" />
+	<feat att="morphologicalUnitId" val="DENNE" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="denne" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="denne" />
+			<feat att="inflectionalParadigm" val="MFG0754" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1053.9464" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="dette" />
+			<feat att="inflectionalParadigm" val="MFG0754" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="751.75" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="disse" />
+			<feat att="inflectionalParadigm" val="MFG0754" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="570.1964" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="dennes" />
+			<feat att="inflectionalParadigm" val="MFG0754" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="14.0536" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="dettes" />
+			<feat att="inflectionalParadigm" val="MFG0754" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.625" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="disses" />
+			<feat att="inflectionalParadigm" val="MFG0754" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="3.7143" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

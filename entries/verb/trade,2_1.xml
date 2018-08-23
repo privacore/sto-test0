@@ -1,0 +1,189 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="mainVerb" />
+	<feat att="id" val="GMU_TRADE,2_1" />
+	<feat att="morphologicalUnitId" val="TRADE_2" />
+	<feat att="originalSource" val="H_OG_E-KORPUS" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="trade" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="verbFormMood" val="imperative" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="trade" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.6607" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="indicative" />
+		<feat att="tense" val="past" />
+		<feat att="voice" val="activeVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tradede" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="indicative" />
+		<feat att="tense" val="present" />
+		<feat att="voice" val="activeVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="trader" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="indicative" />
+		<feat att="tense" val="present" />
+		<feat att="voice" val="passiveVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="trades" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="indicative" />
+		<feat att="tense" val="past" />
+		<feat att="voice" val="passiveVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tradedes" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="infinitive" />
+		<feat att="voice" val="passiveVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="trades" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="infinitive" />
+		<feat att="voice" val="activeVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="trade" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1.6607" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="past" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tradet" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="present" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tradende" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="gerundive" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="unspecified" />
+		<feat att="transcategorization" val="transnominal" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="traden" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="present" />
+		<feat att="grammaticalNumber" val="unspecified" />
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="definiteness" val="unspecified" />
+		<feat att="transcategorization" val="transadjectival" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tradende" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="past" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="transcategorization" val="transadjectival" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tradet" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="past" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="transcategorization" val="transadjectival" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tradet" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="past" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="definiteness" val="definite" />
+		<feat att="transcategorization" val="transadjectival" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tradede" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="verbFormMood" val="participle" />
+		<feat att="tense" val="past" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="definiteness" val="unspecified" />
+		<feat att="transcategorization" val="transadjectival" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="tradede" />
+			<feat att="inflectionalParadigm" val="MFG1160" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

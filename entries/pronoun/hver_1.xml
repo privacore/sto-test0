@@ -1,0 +1,35 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="indefinitePronoun" />
+	<feat att="id" val="GMU_HVER_1" />
+	<feat att="morphologicalUnitId" val="HVER" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="hver" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="hvert" />
+			<feat att="inflectionalParadigm" val="MFG0741" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="337.3571" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="hver" />
+			<feat att="inflectionalParadigm" val="MFG0741" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="529.75" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

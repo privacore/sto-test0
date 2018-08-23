@@ -1,0 +1,62 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_BARNDOM_1" />
+	<feat att="morphologicalUnitId" val="BARNDOM" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="barndom" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="barndom" />
+			<feat att="inflectionalParadigm" val="MFG0271" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="22.7321" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="barndoms" />
+			<feat att="inflectionalParadigm" val="MFG0271" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="3.8214" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="barndommen" />
+			<feat att="inflectionalParadigm" val="MFG0271" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="8.4286" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="definiteness" val="definite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="barndommens" />
+			<feat att="inflectionalParadigm" val="MFG0271" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="4.6429" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

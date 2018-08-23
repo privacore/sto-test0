@@ -1,0 +1,29 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="commonNoun" />
+	<feat att="id" val="GMU_kambrium_2" />
+	<feat att="morphologicalUnitId" val="KAMBRIUM" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Kambrium" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="nil" />
+			<feat att="joiningElementResult" val="Kambrium" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Kambrium" />
+			<feat att="inflectionalParadigm" val="MFG1027" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1071" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_kambrium_1" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="kambrium" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

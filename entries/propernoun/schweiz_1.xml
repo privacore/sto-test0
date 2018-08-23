@@ -1,0 +1,56 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="properNoun" />
+	<feat att="id" val="GMU_SCHWEIZ_1" />
+	<feat att="morphologicalUnitId" val="SCHWEIZ" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Schweiz" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="unspecified" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Schweiz" />
+			<feat att="inflectionalParadigm" val="MFG1022" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="25.4464" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="unspecified" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Schweizes" />
+			<feat att="inflectionalParadigm" val="MFG1022" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Schweiz's" />
+			<feat att="inflectionalParadigm" val="MFG1022" />
+			<feat att="officiallyApproved" val="no" />
+			<feat att="frequency" val=".0179" />
+		</FormRepresentation>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Schweiz'" />
+			<feat att="inflectionalParadigm" val="MFG1022" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".1786" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_SCHWEIZ_2" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Svejts" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

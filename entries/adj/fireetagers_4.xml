@@ -1,0 +1,120 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="adjective" />
+	<feat att="id" val="GMU_FIREETAGERS_4" />
+	<feat att="morphologicalUnitId" val="FIREETAGERS" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="fireetagers" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="fireetagers" />
+			<feat att="inflectionalParadigm" val="MFG0223" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="fireetagers" />
+			<feat att="inflectionalParadigm" val="MFG0223" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="definite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="fireetagers" />
+			<feat att="inflectionalParadigm" val="MFG0223" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="adjectivalFunction" val="predicativeFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="fireetagers" />
+			<feat att="inflectionalParadigm" val="MFG0223" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalNumber" val="plural" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="fireetagers" />
+			<feat att="inflectionalParadigm" val="MFG0223" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="transcategorization" val="transadverbial" />
+		<feat att="adjectivalFunction" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="fireetagers" />
+			<feat att="inflectionalParadigm" val="MFG0223" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="adjectivalFunction" val="predicativeFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="fireetagers" />
+			<feat att="inflectionalParadigm" val="MFG0223" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="0.0" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_FIREETAGERS_1" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="firetages" />
+		</FormRepresentation>
+	</RelatedForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_FIREETAGERS_2,GMU_FIREETAGERS_3" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="firetagers,fireetages" />
+		</FormRepresentation>
+	</RelatedForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_FIREETAGERS_2" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="firetagers" />
+		</FormRepresentation>
+	</RelatedForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_FIREETAGERS_3" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="fireetages" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

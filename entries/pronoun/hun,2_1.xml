@@ -1,0 +1,38 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="personalPronoun" />
+	<feat att="id" val="GMU_HUN,2_1" />
+	<feat att="morphologicalUnitId" val="HUN_2" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="hun" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<feat att="person" val="thirdPerson" />
+		<feat att="reflexivity" val="no" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="hende" />
+			<feat att="inflectionalParadigm" val="MFG0738" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="675.4464" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="nominativeCase" />
+		<feat att="person" val="thirdPerson" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="hun" />
+			<feat att="inflectionalParadigm" val="MFG0738" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="3111.7143" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

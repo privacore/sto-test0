@@ -1,0 +1,38 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="properNoun" />
+	<feat att="id" val="GMU_KØBENHAVN_1" />
+	<feat att="morphologicalUnitId" val="KØBENHAVN" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="København" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="København" />
+			<feat att="inflectionalParadigm" val="MFG1011" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="369.6429" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Københavns" />
+			<feat att="inflectionalParadigm" val="MFG1011" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="143.7143" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

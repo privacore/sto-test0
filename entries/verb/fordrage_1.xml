@@ -1,0 +1,23 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="mainVerb" />
+	<feat att="id" val="GMU_FORDRAGE_1" />
+	<feat att="morphologicalUnitId" val="FORDRAGE" />
+	<feat att="originalSource" val="DDO" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="fordrage" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="verbFormMood" val="infinitive" />
+		<feat att="voice" val="activeVoice" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="fordrage" />
+			<feat att="inflectionalParadigm" val="MFG1165" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="3.0357" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

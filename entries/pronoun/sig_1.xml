@@ -1,0 +1,24 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="personalPronoun" />
+	<feat att="id" val="GMU_SIG_1" />
+	<feat att="morphologicalUnitId" val="SIG" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="sig" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="case" val="unspecified" />
+		<feat att="person" val="thirdPerson" />
+		<feat att="reflexivity" val="yes" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="sig" />
+			<feat att="inflectionalParadigm" val="MFG0750" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="4715.0357" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

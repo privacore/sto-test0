@@ -1,0 +1,38 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="properNoun" />
+	<feat att="id" val="GMU_ISRAEL_1" />
+	<feat att="morphologicalUnitId" val="ISRAEL" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Israel" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Israel" />
+			<feat att="inflectionalParadigm" val="MFG1007" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="59.5179" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Israels" />
+			<feat att="inflectionalParadigm" val="MFG1007" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="18.8214" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

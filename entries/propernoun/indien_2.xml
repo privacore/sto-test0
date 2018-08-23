@@ -1,0 +1,44 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="properNoun" />
+	<feat att="id" val="GMU_INDIEN_2" />
+	<feat att="morphologicalUnitId" val="INDIEN" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="Indien" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="joiningElement" val="Not analyzed" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Indien" />
+			<feat att="inflectionalParadigm" val="MFG1007" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="28.0536" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="Indiens" />
+			<feat att="inflectionalParadigm" val="MFG1007" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="5.2679" />
+		</FormRepresentation>
+	</WordForm>
+	<RelatedForm>
+		<feat att="spellingVariant" val="GMU_INDIEN_1" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="India" />
+		</FormRepresentation>
+	</RelatedForm>
+</LexicalEntry>

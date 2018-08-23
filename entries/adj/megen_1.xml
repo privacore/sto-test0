@@ -1,0 +1,74 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="adjective" />
+	<feat att="id" val="GMU_MEGEN_1" />
+	<feat att="morphologicalUnitId" val="MEGEN" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="megen" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="megen" />
+			<feat att="inflectionalParadigm" val="MFG0531" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="61.3214" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="definiteness" val="indefinite" />
+		<feat att="adjectivalFunction" val="attributiveFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="meget" />
+			<feat att="inflectionalParadigm" val="MFG0531" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1677." />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="adjectivalFunction" val="predicativeFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="megen" />
+			<feat att="inflectionalParadigm" val="MFG0531" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="61.3214" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="adjectivalFunction" val="predicativeFunction" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="meget" />
+			<feat att="inflectionalParadigm" val="MFG0531" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1677." />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="degree" val="positive" />
+		<feat att="transcategorization" val="transadverbial" />
+		<feat att="adjectivalFunction" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="meget" />
+			<feat att="inflectionalParadigm" val="MFG0531" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="1677." />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

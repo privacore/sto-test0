@@ -1,0 +1,57 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="indefinitePronoun" />
+	<feat att="id" val="GMU_EN,1_1" />
+	<feat att="morphologicalUnitId" val="EN_1" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="en" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="et" />
+			<feat att="inflectionalParadigm" val="MFG0735" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="7596.2679" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="en" />
+			<feat att="inflectionalParadigm" val="MFG0735" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="16265.9464" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="ets" />
+			<feat att="inflectionalParadigm" val="MFG0735" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val=".125" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="genitiveCase" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="ens" />
+			<feat att="inflectionalParadigm" val="MFG0735" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="78.6429" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

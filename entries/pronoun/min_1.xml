@@ -1,0 +1,52 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="possessivePronoun" />
+	<feat att="id" val="GMU_MIN_1" />
+	<feat att="morphologicalUnitId" val="MIN" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="min" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<feat att="ownerNumber" val="singular" />
+		<feat att="person" val="firstPerson" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="min" />
+			<feat att="inflectionalParadigm" val="MFG0748" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="874.4821" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<feat att="ownerNumber" val="singular" />
+		<feat att="person" val="firstPerson" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="mit" />
+			<feat att="inflectionalParadigm" val="MFG0748" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="297.5" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="unspecified" />
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<feat att="ownerNumber" val="singular" />
+		<feat att="person" val="firstPerson" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="mine" />
+			<feat att="inflectionalParadigm" val="MFG0748" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="272.3571" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>

@@ -1,0 +1,45 @@
+<LexicalEntry>
+	<feat att="partOfSpeech" val="interrogativeRelativePronoun" />
+	<feat att="id" val="GMU_HVILKEN_1" />
+	<feat att="morphologicalUnitId" val="HVILKEN" />
+	<feat att="originalSource" val="PAROLE" />
+	<feat att="independentWord" val="yes" />
+	<Lemma>
+		<FormRepresentation>
+			<feat att="writtenForm" val="hvilken" />
+			<feat att="officiallyApproved" val="yes" />
+		</FormRepresentation>
+	</Lemma>
+	<WordForm>
+		<feat att="grammaticalGender" val="commonGender" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="hvilken" />
+			<feat att="inflectionalParadigm" val="MFG0743" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="104.4643" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalGender" val="neuter" />
+		<feat att="grammaticalNumber" val="singular" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="hvilket" />
+			<feat att="inflectionalParadigm" val="MFG0743" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="222.375" />
+		</FormRepresentation>
+	</WordForm>
+	<WordForm>
+		<feat att="grammaticalNumber" val="plural" />
+		<feat att="case" val="unspecified" />
+		<FormRepresentation>
+			<feat att="writtenForm" val="hvilke" />
+			<feat att="inflectionalParadigm" val="MFG0743" />
+			<feat att="officiallyApproved" val="yes" />
+			<feat att="frequency" val="114.625" />
+		</FormRepresentation>
+	</WordForm>
+</LexicalEntry>
